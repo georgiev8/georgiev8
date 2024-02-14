@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 💻 I work as a QA Automation Engineer using mainly JavaScript.
-- 👀 I am interested in exploring the QA world.
+- 👀 I am interested in exploring the QA world every day.
 - 🔭 I’m currently working with Cypress Framework.
 - 💬 For connection, I have left my LinkedIn profile within the description.
 
