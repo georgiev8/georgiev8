@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 💻 I work as a QA Automation Engineer using mainly JavaScript.
+- 👀 I am interested in exploring the QA world.
+- 🔭 I’m currently working with Cypress Framework.
 
 <!--
 **georgiev8/georgiev8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
